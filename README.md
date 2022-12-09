@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @onurgedik01
 - 👀 I’m interested in Backend Developing (13 yrs+ experience)
 - 🌱 I’m currently learning Solidity
+- 👨‍💻 I'm currently developing Solana based application
 - 📫 Contact, mail:info@onurgedik.com | tg:onurgedik01 | ig:onurgedik01
